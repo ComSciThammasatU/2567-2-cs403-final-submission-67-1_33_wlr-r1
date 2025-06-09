@@ -12,7 +12,7 @@
 **ผู้จัดทำโครงงาน:** 
 1. นายนันทกร ลามอ  6409682553  nunthakorn.lam@dome.tu.ac.th
    
-Manual / Instructions for your projects starts here !
+Manual / Instructions for your projects
 # Topic 1
 # Topic 2 
 # Topic 3
