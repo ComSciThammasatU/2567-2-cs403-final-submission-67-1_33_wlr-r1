@@ -86,6 +86,7 @@ npm install
 
 ---
 **ต่อมาหลังจาก Set-up Gmail Account กับ ฐานข้อมูลแล้ว ให้ดำเนินการดังนี้**
+
 สร้างไฟล์ `.env` ใน folder `api/` โดย copy จาก format ด้านล่าง
 
 ```env
