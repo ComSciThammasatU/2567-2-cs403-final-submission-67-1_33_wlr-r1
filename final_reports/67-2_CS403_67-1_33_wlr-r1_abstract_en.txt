@@ -1,0 +1,7 @@
+ระบบจัดการพัสดุของหอพัก
+DORMITORY PACKAGE MANAGEMENT SYSTEM
+	This project aims to develop a web application for dormitory package management to enhance convenience for three main user groups: dormitory owners, package staff, and tenants. The objective is to transition from traditional paper-based processes—which are prone to errors, lack security, and are difficult to verify—into a digital system that allows efficient tracking, verification, and identity confirmation of package recipients.
+	The system design began with a study of the current workflow, revealing that manual data recording is unreliable and susceptible to loss. As a solution, a web application compatible with various devices was developed to serve all user groups. Key features include package data entry and management, tenant notifications, QR code-based identity verification, and package receipt history logging.
+	Role-based access control is implemented to ensure appropriate system usage: dormitory owners can manage dorm and user data, package manager can handle package records and deliveries package, and tenants can track their packages and confirm receipt using QR codes. This project significantly reduces manual data entry errors, improves transparency in the delivery process, enhances overall management efficiency, and enables reliable tracking of package history.
+Keywords: Web Application, Package Management, Dormitory, Identity Verification, Digital System
+
