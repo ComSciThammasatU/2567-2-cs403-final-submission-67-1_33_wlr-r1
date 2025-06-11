@@ -28,7 +28,6 @@ dist-ssr
 key.pem
 cert.pem
 
-/api/packages/*
-/api/uploads/*
+
 
 
