@@ -61,11 +61,10 @@
 ```bash
 git clone https://github.com/ComSciThammasatU/2567-2-cs403-final-submission-67-1_33_wlr-r1.git
 ```
+2. หลังจาก clone เสร็จเรียบร้อยแล้ว ให้รันคำสั่ง
 ```bash
 cd 2567-2-cs403-final-submission-67-1_33_wlr-r1
 npm install
-```
-```bash
 cd api
 npm install
 ```
