@@ -28,7 +28,7 @@
 │ └── main.jsx 				# ไฟล์แสดง Route ของโปรแกรม
 ├── templates/ 				# Template ใช้สำหรับการตั้งค่าไฟล์โปรแกรม
 │ ├── env_template.txt 		        # Template ของไฟล์ .env
-│ ├── database_template.txt # Template ในการ Setup database
+│ ├── database_template.txt         # Template ในการ Setup database
 ├── .gitignore 				# ไฟล์ตั้งค่า gitignore
 ├── .eslintrc.js 			# ไฟล์ตั้งค่า ESlint
 ├── index.html 				# โฟลเดอร์ Html หลัก
