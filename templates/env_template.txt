@@ -1,0 +1,12 @@
+JWT_SECRET=my_secret_key
+
+# EMAIL
+EMAIL_USER='your_email'
+EMAIL_PASS='your_email_16_digit_code'
+
+# DATABASE
+DB_HOST=127.0.0.1
+DB_PORT=3306
+DB_USER=root
+DB_PASSWORD=
+DB_NAME='your_database_name'

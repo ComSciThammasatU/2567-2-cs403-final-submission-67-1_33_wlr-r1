@@ -28,13 +28,12 @@
 │ └── main.jsx 				# ไฟล์แสดง Route ของโปรแกรม
 ├── templates/ 				# Template ใช้สำหรับการตั้งค่าไฟล์โปรแกรม
 │ ├── env_template.txt 		        # Template ของไฟล์ .env
-│ ├── database_template.txt             # Template ในการ Setup database
+│ ├── database_template.sql             # Template ในการ Setup database
 ├── .gitignore 				# ไฟล์ตั้งค่า gitignore
 ├── .eslintrc.js 			# ไฟล์ตั้งค่า ESlint
 ├── index.html 				# โฟลเดอร์ Html หลัก
 ├── package.json 			# ไฟล์ dependenies ของระบบ
 ├── package-lock.json 		        # ไฟล์ Locks dependency versions ของระบบ
-├── README.md 				# ไฟล์ README.md
 └── vite.config.js 			# ไฟล์ตั้งค่า Vite Config
 ```
   
