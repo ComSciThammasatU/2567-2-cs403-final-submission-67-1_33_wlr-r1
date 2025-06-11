@@ -1,35 +1,39 @@
 **รหัสโครงงาน:** 67-1_33_wlr-r1
+
 **ชื่อโครงงาน (ไทย):** ระบบจัดการพัสดุของหอพัก
+
 **Project Title (Eng):** DORMITORY PACKAGE MANAGEMENT SYSTEM
+
 **อาจารย์ที่ปรึกษาโครงงาน:** ผศ. ดร.วิลาวรรณ รักผกาวงศ์
+
 **ผู้จัดทำโครงงาน:**
 1. นายนันทกร ลามอ 6409682553 nunthakorn.lam@dome.tu.ac.th
 
 **Project Structure**
 ```
 ├── demo/
-│ ├── 67-2_CS403_67-1_33_wlr-r1_demo.mp4 			#ไฟล์วิดีโอแสดงขั้นตอนการติดตั้งโปรแกรม
+│ ├── 67-2_CS403_67-1_33_wlr-r1_demo.mp4 		#ไฟล์วิดีโอแสดงขั้นตอนการติดตั้งโปรแกรม
 ├── final_reports/
-│ ├── 67-2_CS403_67-1_33_wlr-r1.pdf 				#ไฟล์เล่มรายงานฉบับสมบูรณ์
+│ ├── 67-2_CS403_67-1_33_wlr-r1.pdf 			#ไฟล์เล่มรายงานฉบับสมบูรณ์
 │ ├── 67-2_CS403_67-1_33_wlr-r1_abstract_th.txt 	#ไฟล์บทคัดย่อโครงงาน (ภาษาไทย)
 │ ├── 67-2_CS403_67-1_33_wlr-r1_abstract_en.txt 	#ไฟล์บทคัดย่อโครงงาน (ภาษาอังกฤษ)
 ├── README.md 				# ไฟล์ README.md
 ├── .github/ 				# GitHub Actions workflows สำหรับการ deploy GitHub Pages
-├── api/ 					# โฟลเดอร์รวมไฟล์ Soure Code ฝั่ง Backend
+├── api/ 				# โฟลเดอร์รวมไฟล์ Soure Code ฝั่ง Backend
 ├── public/ 				# โฟลเดอร์สำหรับเก็บ static assets รูปภาพต่างๆ
-├── src/ 					# โฟลเดอร์หลักของ Source code ฝั่ง Frontend
+├── src/ 				# โฟลเดอร์หลักของ Source code ฝั่ง Frontend
 │ ├── pages/ 				# โฟลเดอร์หลักของหน้าต่างๆ ในโปรแกรม
 │ ├── assets/ 				# Assets ที่ใช้ในหน้าต่างๆ
 │ ├── utils/ 				# โฟลเดอร์รวมไฟล์ตั้งค่าฟังก์ชันเพิ่มเติม
 │ └── main.jsx 				# ไฟล์แสดง Route ของโปรแกรม
 ├── templates/ 				# Template ใช้สำหรับการตั้งค่าไฟล์โปรแกรม
-│ ├── env_template.txt 		# Template ของไฟล์ .env
+│ ├── env_template.txt 		    # Template ของไฟล์ .env
 │ ├── database_template.txt # Template ในการ Setup database
 ├── .gitignore 				# ไฟล์ตั้งค่า gitignore
 ├── .eslintrc.js 			# ไฟล์ตั้งค่า ESlint
 ├── index.html 				# โฟลเดอร์ Html หลัก
 ├── package.json 			# ไฟล์ dependenies ของระบบ
-├── package-lock.json 		# ไฟล์ Locks dependency versions ของระบบ
+├── package-lock.json 		    # ไฟล์ Locks dependency versions ของระบบ
 ├── README.md 				# ไฟล์ README.md
 └── vite.config.js 			# ไฟล์ตั้งค่า Vite Config
 ```
