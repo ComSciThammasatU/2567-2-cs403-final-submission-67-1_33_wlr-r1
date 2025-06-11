@@ -104,8 +104,11 @@ DB_PASSWORD=
 DB_NAME='your_database_name'
 ```
 โดยให้เปลี่ยนการตั้งค่าตาม account ของตนเอง 
+
 **EMAIL_USER** → อีเมลของตนเอง
+
 **EMAIL_PASS** → รหัส 16 หลัก
+
 **DB_NAME** → ชื่อ database ที่ตั้งไว้
 
 ## ⌨️ขั้นตอนการรันโปรแกรม
