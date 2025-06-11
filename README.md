@@ -18,7 +18,6 @@
 │ ├── 67-2_CS403_67-1_33_wlr-r1_abstract_th.txt 	# ไฟล์บทคัดย่อโครงงาน (ภาษาไทย)
 │ ├── 67-2_CS403_67-1_33_wlr-r1_abstract_en.txt 	# ไฟล์บทคัดย่อโครงงาน (ภาษาอังกฤษ)
 ├── README.md 				# ไฟล์ README.md
-├── .github/ 				# GitHub Actions workflows สำหรับการ deploy GitHub Pages
 ├── api/ 				# โฟลเดอร์รวมไฟล์ Soure Code ฝั่ง Backend
 ├── public/ 				# โฟลเดอร์สำหรับเก็บ static assets รูปภาพต่างๆ
 ├── src/ 				# โฟลเดอร์หลักของ Source code ฝั่ง Frontend
