@@ -60,9 +60,12 @@
 1. เปิด cmd ขึ้นมา จากนั้นรันคำสั่ง
 ```bash
 git clone https://github.com/ComSciThammasatU/2567-2-cs403-final-submission-67-1_33_wlr-r1.git
+```
+```bash
 cd 2567-2-cs403-final-submission-67-1_33_wlr-r1
 npm install
-
+```
+```bash
 cd api
 npm install
 ```
